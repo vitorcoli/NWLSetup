@@ -27,4 +27,4 @@ const data = JSON.parse(localStorage.getItem("NLWSetup@habits")) || {} //  trans
 
 nlwSetup.setData(data) // constroi a tabela de habitos em html
 nlwSetup.load(data) // carrega os dados locais construídos e renderiza o layout
-//teste
+//teste teste
